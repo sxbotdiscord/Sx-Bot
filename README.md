@@ -17,3 +17,7 @@ Sx Bot is a Multi-Functional Bot Providing in Depth Modlogs, Moderating, as well
 <li><strong>Custom Roles/Starboard: Create Custom Roles that Moderators can Assign to Members. Star Messages that can be sent to a Designated Channel.</strong></li>
 <li><strong>Lockdown/Slowmode/Staff Mode: Spam Issues? Put a Channel in a Variety of Spam Prevention Modes. OnlyStaff Mode disables all Commands in a Given Channel for Non-Staff Members.</strong></li>
 </ul>
+<hr />
+<h2>Support Server:</h2>
+<p><a href="https://discord.gg/R4DtNZm" target="_blank" rel="nofollow noopener"><img src="https://discordapp.com/api/guilds/696873891225665536/widget.png?style=banner2" alt="Discord" /></a></p>
+<p><img src="https://discord.boats/api/widget/696870234262339614" alt="widget" width="300" height="150" /></p>
