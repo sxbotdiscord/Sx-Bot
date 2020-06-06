@@ -21,7 +21,5 @@ Sx Bot is a Multi-Functional Bot Providing in Depth Modlogs, Moderating, as well
 <h2>Support Server:</h2>
 <p><a href="https://discord.gg/R4DtNZm" target="_blank" rel="nofollow noopener"><img src="https://discordapp.com/api/guilds/696873891225665536/widget.png?style=banner2" alt="Discord" /></a></p>
 <p><img src="https://discord.boats/api/widget/696870234262339614" alt="widget" width="300" height="150" /></p>
-<a href="https://discord.boats/bot/696870234262339614" >
-  <img src="https://discord.boats/api/widget/696870234262339614" alt="widget" />
-</a>
+
 <p><img src="https://botsfordiscord.com/api/bot/696870234262339614/widget" alt="widget2" width="300" height="150" /></p>
